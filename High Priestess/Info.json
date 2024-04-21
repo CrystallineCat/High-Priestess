@@ -1,0 +1,7 @@
+{
+    "Id": "High Priestess",
+    "DisplayName": "High Priestess",
+    "Author": "CrystallineCat",
+    "Version": "0.1.0",
+    "EntryMethod": "HighPriestess.Main.Load"
+}

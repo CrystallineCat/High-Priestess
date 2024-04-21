@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to High Pristess",
+            "type": "moonsharp-debug",
+            "debugServer" : 41912,
+            "request": "attach"
+        }
+    ]
+}
